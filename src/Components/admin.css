@@ -1,0 +1,17 @@
+.area {
+  color: black;
+
+  font-size: small;
+  justify-content: left;
+  margin-left: 20%;
+  margin-top: 18%;
+}
+
+.heading {
+  display: flex;
+}
+
+.butt {
+  margin-top: 16px;
+  margin-left: 35px;
+}
